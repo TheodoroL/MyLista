@@ -1,0 +1,13 @@
+{
+  "name": "lista",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "watch":"node  --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
